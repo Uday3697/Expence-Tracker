@@ -1,0 +1,10 @@
+.expences{
+    text-align: center;
+    align-items: center;
+    padding: 1rem;
+    background-color: rgb(45,50,73);
+    margin:auto;
+    width: 50rem;
+    max-width: 95%;
+  
+}
